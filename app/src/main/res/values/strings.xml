@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SourceTree_Tutorial</string>
+    <string name="ex_email">ex) login@login.com</string>
+    <string name="ex_password">******</string>
+    <string name="btn_login">로그인</string>
+    <string name="text_main">MainActivity binding</string>
 </resources>
