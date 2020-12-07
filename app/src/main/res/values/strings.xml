@@ -4,4 +4,5 @@
     <string name="ex_password">******</string>
     <string name="btn_login">로그인</string>
     <string name="text_main">MainActivity binding</string>
+    <string name="btn_toast">확인 메세지</string>
 </resources>
