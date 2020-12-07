@@ -4,5 +4,13 @@
     <string name="ex_password">******</string>
     <string name="btn_login">로그인</string>
     <string name="text_main">MainActivity binding</string>
+<<<<<<< HEAD
     <string name="btn_toast">확인 메세지</string>
+=======
+<<<<<<< HEAD
+    <string name="btn_cancel">취소</string>
+=======
+    <string name="btn_toast">확인 메세지</string>
+>>>>>>> 6e1895bb402e8f903e7f3b046b429a8f60434a55
+>>>>>>> 8cb08750c836ee508a1a86c5b558cd4a17273883
 </resources>
