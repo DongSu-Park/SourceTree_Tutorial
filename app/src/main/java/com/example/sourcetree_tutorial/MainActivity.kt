@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity(){
         setContentView(R.layout.activity_main)
 
         btn_toast.setOnClickListener {
-            Toast.makeText(this, "테스트 메세지 입니다.", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "변경된 메세지 입니다.", Toast.LENGTH_LONG).show()
         }
     }
 }
