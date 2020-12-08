@@ -15,5 +15,7 @@ class LoginActivity : AppCompatActivity() {
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
         }
+
+        Log.d("tag", "테스트 메세지 입니다.")
     }
 }
